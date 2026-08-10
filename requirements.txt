@@ -1,0 +1,26 @@
+# Core data processing
+numpy
+pandas
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+lightgbm
+
+# Deep learning
+tensorflow
+
+# Hyperparameter optimization
+optuna
+
+# Statistical analysis
+scipy
+scikit-posthocs
+
+# Notebook execution
+jupyter
+ipykernel
